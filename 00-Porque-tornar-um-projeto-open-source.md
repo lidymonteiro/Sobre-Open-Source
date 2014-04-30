@@ -5,9 +5,13 @@ Esta é a **dúvida** de muitos desenvolvedores, deixarei aqui alguns pontos de 
 Motivos para migrar seu projeto ou iniciá-lo como open source:
 
 **01.** Contribuir
+
 **02.** Não ser pirateado
+
 **03.** Atualizações regulares no seu projeto
+
 **04.** Ter pessoas com visões diferentes trabalhando no projeto
+
 **05.** Identificação e correção de erros acontecem mais rápido
 **06.** Troca de conhecimento e aprendizado constante
 
